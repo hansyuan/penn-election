@@ -1,0 +1,819 @@
+Pennsylvania
+============================================================
+
+Iteration 0 reporting at 88%. 
+Biden's ratio: 72.1% of the new vote since the 86% reporting. 
+
+Total: 6875465. Needed: 3437732
+
+Biden is at 84.2% with 2895441 of 3437732. 
+Biden needs 542291. 
+
+Trump is at 91.8% with 3154969 of 3437732. 
+Trump needs 282763. 
+
+Delta - total num of votes since 86% reporting: -14068.
+Remaining: 825055.
+New ratio needed: 65.7%. 
+
+============================================================
+
+Iteration 1 reporting at 88%. 
+Biden's ratio: 73.1% of the new vote since the 86% reporting. 
+
+Total: 6918535. Needed: 3459267
+
+Biden is at 84.5% with 2924362 of 3459267. 
+Biden needs 534905. 
+
+Trump is at 91.5% with 3163949 of 3459267. 
+Trump needs 295318. 
+
+Delta - total num of votes since 86% reporting: 29000.
+Remaining: 830224.
+New ratio needed: 64.4%. 
+
+============================================================
+
+Iteration 2 reporting at 88%. 
+Biden's ratio: 72.9% of the new vote since the 86% reporting. 
+
+Total: 6920787. Needed: 3460393
+
+Biden is at 84.5% with 2925483 of 3460393. 
+Biden needs 534910. 
+
+Trump is at 91.5% with 3164810 of 3460393. 
+Trump needs 295583. 
+
+Delta - total num of votes since 86% reporting: 31252.
+Remaining: 830494.
+New ratio needed: 64.4%. 
+
+============================================================
+
+Iteration 3 reporting at 88%. 
+Biden's ratio: 72.8% of the new vote since the 86% reporting. 
+
+Total: 6922034. Needed: 3461017
+
+Biden is at 84.5% with 2926112 of 3461017. 
+Biden needs 534905. 
+
+Trump is at 91.5% with 3165278 of 3461017. 
+Trump needs 295739. 
+
+Delta - total num of votes since 86% reporting: 32499.
+Remaining: 830644.
+New ratio needed: 64.4%. 
+
+============================================================
+
+Iteration 4 reporting at 89%. 
+Biden's ratio: 71.3% of the new vote since the 86% reporting. 
+
+Total: 6880861. Needed: 3440430
+
+Biden is at 85.7% with 2946881 of 3440430. 
+Biden needs 493549. 
+
+Trump is at 92.3% with 3177086 of 3440430. 
+Trump needs 263344. 
+
+Delta - total num of votes since 86% reporting: -8673.
+Remaining: 756894.
+New ratio needed: 65.2%. 
+
+============================================================
+
+Iteration 5 reporting at 88%. 
+Biden's ratio: 72.6% of the new vote since the 86% reporting. 
+
+Total: 7018367. Needed: 3509183
+
+Biden is at 85.1% with 2987385 of 3509183. 
+Biden needs 521798. 
+
+Trump is at 90.9% with 3188778 of 3509183. 
+Trump needs 320405. 
+
+Delta - total num of votes since 86% reporting: 128832.
+Remaining: 842204.
+New ratio needed: 62.0%. 
+
+============================================================
+
+Iteration 6 reporting at 88%. 
+Biden's ratio: 72.1% of the new vote since the 86% reporting. 
+
+Total: 7030020. Needed: 3515010
+
+Biden is at 85.2% with 2993438 of 3515010. 
+Biden needs 521572. 
+
+Trump is at 90.8% with 3192980 of 3515010. 
+Trump needs 322030. 
+
+Delta - total num of votes since 86% reporting: 140485.
+Remaining: 843602.
+New ratio needed: 61.8%. 
+
+============================================================
+
+Iteration 7 reporting at 88%. 
+Biden's ratio: 71.8% of the new vote since the 86% reporting. 
+
+Total: 7052296. Needed: 3526148
+
+Biden is at 85.3% with 3006818 of 3526148. 
+Biden needs 519330. 
+
+Trump is at 90.7% with 3199203 of 3526148. 
+Trump needs 326945. 
+
+Delta - total num of votes since 86% reporting: 162761.
+Remaining: 846275.
+New ratio needed: 61.4%. 
+
+============================================================
+
+Iteration 8 reporting at 89%. 
+Biden's ratio: 71.9% of the new vote since the 86% reporting. 
+
+Total: 6986743. Needed: 3493371
+
+Biden is at 86.3% with 3015721 of 3493371. 
+Biden needs 477650. 
+
+Trump is at 91.7% with 3202481 of 3493371. 
+Trump needs 290890. 
+
+Delta - total num of votes since 86% reporting: 97208.
+Remaining: 768541.
+New ratio needed: 62.2%. 
+
+============================================================
+
+Iteration 9 reporting at 89%. 
+Biden's ratio: 71.9% of the new vote since the 86% reporting. 
+
+Total: 6991782. Needed: 3495891
+
+Biden is at 86.4% with 3019142 of 3495891. 
+Biden needs 476749. 
+
+Trump is at 91.6% with 3203544 of 3495891. 
+Trump needs 292347. 
+
+Delta - total num of votes since 86% reporting: 102247.
+Remaining: 769096.
+New ratio needed: 62.0%. 
+
+============================================================
+
+Iteration 10 reporting at 89%. 
+Biden's ratio: 72.0% of the new vote since the 86% reporting. 
+
+Total: 7042188. Needed: 3521094
+
+Biden is at 86.7% with 3051565 of 3521094. 
+Biden needs 469529. 
+
+Trump is at 91.3% with 3215983 of 3521094. 
+Trump needs 305111. 
+
+Delta - total num of votes since 86% reporting: 152653.
+Remaining: 774640.
+New ratio needed: 60.6%. 
+
+============================================================
+
+Iteration 11 reporting at 88%. 
+Biden's ratio: 73.9% of the new vote since the 86% reporting. 
+
+Total: 7207865. Needed: 3603932
+
+Biden is at 86.4% with 3113911 of 3603932. 
+Biden needs 490021. 
+
+Trump is at 89.6% with 3229011 of 3603932. 
+Trump needs 374921. 
+
+Delta - total num of votes since 86% reporting: 318331.
+Remaining: 864943.
+New ratio needed: 56.7%. 
+
+============================================================
+
+Iteration 12 reporting at 88%. 
+Biden's ratio: 73.8% of the new vote since the 86% reporting. 
+
+Total: 7219161. Needed: 3609580
+
+Biden is at 86.5% with 3120731 of 3609580. 
+Biden needs 488849. 
+
+Trump is at 89.5% with 3232131 of 3609580. 
+Trump needs 377449. 
+
+Delta - total num of votes since 86% reporting: 329626.
+Remaining: 866299.
+New ratio needed: 56.4%. 
+
+============================================================
+
+Iteration 13 reporting at 88%. 
+Biden's ratio: 73.7% of the new vote since the 86% reporting. 
+
+Total: 7227438. Needed: 3613719
+
+Biden is at 86.5% with 3125766 of 3613719. 
+Biden needs 487953. 
+
+Trump is at 89.5% with 3234380 of 3613719. 
+Trump needs 379339. 
+
+Delta - total num of votes since 86% reporting: 337903.
+Remaining: 867292.
+New ratio needed: 56.3%. 
+
+============================================================
+
+Iteration 14 reporting at 88%. 
+Biden's ratio: 73.5% of the new vote since the 86% reporting. 
+
+Total: 7231507. Needed: 3615753
+
+Biden is at 86.5% with 3127552 of 3615753. 
+Biden needs 488201. 
+
+Trump is at 89.5% with 3236175 of 3615753. 
+Trump needs 379578. 
+
+Delta - total num of votes since 86% reporting: 341973.
+Remaining: 867780.
+New ratio needed: 56.3%. 
+
+============================================================
+
+Iteration 15 reporting at 88%. 
+Biden's ratio: 73.5% of the new vote since the 86% reporting. 
+
+Total: 7231944. Needed: 3615972
+
+Biden is at 86.5% with 3127743 of 3615972. 
+Biden needs 488229. 
+
+Trump is at 89.5% with 3236368 of 3615972. 
+Trump needs 379604. 
+
+Delta - total num of votes since 86% reporting: 342409.
+Remaining: 867833.
+New ratio needed: 56.3%. 
+
+============================================================
+
+Iteration 16 reporting at 88%. 
+Biden's ratio: 73.8% of the new vote since the 86% reporting. 
+
+Total: 7240020. Needed: 3620010
+
+Biden is at 86.6% with 3134290 of 3620010. 
+Biden needs 485720. 
+
+Trump is at 89.4% with 3236928 of 3620010. 
+Trump needs 383082. 
+
+Delta - total num of votes since 86% reporting: 350485.
+Remaining: 868802.
+New ratio needed: 55.9%. 
+
+============================================================
+
+Iteration 17 reporting at 88%. 
+Biden's ratio: 73.7% of the new vote since the 86% reporting. 
+
+Total: 7245840. Needed: 3622920
+
+Biden is at 86.6% with 3137658 of 3622920. 
+Biden needs 485262. 
+
+Trump is at 89.4% with 3238682 of 3622920. 
+Trump needs 384238. 
+
+Delta - total num of votes since 86% reporting: 356306.
+Remaining: 869500.
+New ratio needed: 55.8%. 
+
+============================================================
+
+Iteration 18 reporting at 88%. 
+Biden's ratio: 73.7% of the new vote since the 86% reporting. 
+
+Total: 7253238. Needed: 3626619
+
+Biden is at 86.6% with 3142463 of 3626619. 
+Biden needs 484156. 
+
+Trump is at 89.4% with 3240387 of 3626619. 
+Trump needs 386232. 
+
+Delta - total num of votes since 86% reporting: 363703.
+Remaining: 870388.
+New ratio needed: 55.6%. 
+
+============================================================
+
+Iteration 19 reporting at 88%. 
+Biden's ratio: 73.7% of the new vote since the 86% reporting. 
+
+Total: 7255395. Needed: 3627697
+
+Biden is at 86.7% with 3143750 of 3627697. 
+Biden needs 483947. 
+
+Trump is at 89.3% with 3240998 of 3627697. 
+Trump needs 386699. 
+
+Delta - total num of votes since 86% reporting: 365860.
+Remaining: 870647.
+New ratio needed: 55.6%. 
+
+============================================================
+
+Iteration 20 reporting at 88%. 
+Biden's ratio: 73.4% of the new vote since the 86% reporting. 
+
+Total: 7278618. Needed: 3639309
+
+Biden is at 86.8% with 3157309 of 3639309. 
+Biden needs 482000. 
+
+Trump is at 89.2% with 3247875 of 3639309. 
+Trump needs 391434. 
+
+Delta - total num of votes since 86% reporting: 389083.
+Remaining: 873434.
+New ratio needed: 55.2%. 
+
+============================================================
+
+Iteration 21 reporting at 89%. 
+Biden's ratio: 73.3% of the new vote since the 86% reporting. 
+
+Total: 7262666. Needed: 3631333
+
+Biden is at 88.1% with 3199756 of 3631333. 
+Biden needs 431577. 
+
+Trump is at 89.9% with 3264017 of 3631333. 
+Trump needs 367316. 
+
+Delta - total num of votes since 86% reporting: 373131.
+Remaining: 798893.
+New ratio needed: 54.0%. 
+
+============================================================
+
+Iteration 22 reporting at 89%. 
+Biden's ratio: 73.3% of the new vote since the 86% reporting. 
+
+Total: 7263705. Needed: 3631852
+
+Biden is at 88.1% with 3200489 of 3631852. 
+Biden needs 431363. 
+
+Trump is at 89.9% with 3264209 of 3631852. 
+Trump needs 367643. 
+
+Delta - total num of votes since 86% reporting: 374170.
+Remaining: 799007.
+New ratio needed: 54.0%. 
+
+============================================================
+
+Iteration 23 reporting at 89%. 
+Biden's ratio: 73.2% of the new vote since the 86% reporting. 
+
+Total: 7278064. Needed: 3639032
+
+Biden is at 88.2% with 3209598 of 3639032. 
+Biden needs 429434. 
+
+Trump is at 89.8% with 3267879 of 3639032. 
+Trump needs 371153. 
+
+Delta - total num of votes since 86% reporting: 388529.
+Remaining: 800587.
+New ratio needed: 53.6%. 
+
+============================================================
+
+Iteration 24 reporting at 90%. 
+Biden's ratio: 73.3% of the new vote since the 86% reporting. 
+
+Total: 7208193. Needed: 3604096
+
+Biden is at 89.3% with 3217079 of 3604096. 
+Biden needs 387017. 
+
+Trump is at 90.7% with 3270295 of 3604096. 
+Trump needs 333801. 
+
+Delta - total num of votes since 86% reporting: 318658.
+Remaining: 720819.
+New ratio needed: 53.7%. 
+
+============================================================
+
+Iteration 25 reporting at 90%. 
+Biden's ratio: 73.3% of the new vote since the 86% reporting. 
+
+Total: 7211275. Needed: 3605637
+
+Biden is at 89.3% with 3219263 of 3605637. 
+Biden needs 386374. 
+
+Trump is at 90.7% with 3270885 of 3605637. 
+Trump needs 334752. 
+
+Delta - total num of votes since 86% reporting: 321740.
+Remaining: 721127.
+New ratio needed: 53.6%. 
+
+============================================================
+
+Iteration 26 reporting at 90%. 
+Biden's ratio: 73.2% of the new vote since the 86% reporting. 
+
+Total: 7235798. Needed: 3617899
+
+Biden is at 89.4% with 3235017 of 3617899. 
+Biden needs 382882. 
+
+Trump is at 90.6% with 3277202 of 3617899. 
+Trump needs 340697. 
+
+Delta - total num of votes since 86% reporting: 346264.
+Remaining: 723579.
+New ratio needed: 52.9%. 
+
+============================================================
+
+Iteration 27 reporting at 90%. 
+Biden's ratio: 73.3% of the new vote since the 86% reporting. 
+
+Total: 7248687. Needed: 3624343
+
+Biden is at 89.5% with 3243717 of 3624343. 
+Biden needs 380626. 
+
+Trump is at 90.5% with 3280102 of 3624343. 
+Trump needs 344241. 
+
+Delta - total num of votes since 86% reporting: 359152.
+Remaining: 724868.
+New ratio needed: 52.5%. 
+
+============================================================
+
+Iteration 28 reporting at 90%. 
+Biden's ratio: 73.6% of the new vote since the 86% reporting. 
+
+Total: 7263946. Needed: 3631973
+
+Biden is at 89.6% with 3255710 of 3631973. 
+Biden needs 376263. 
+
+Trump is at 90.4% with 3281842 of 3631973. 
+Trump needs 350131. 
+
+Delta - total num of votes since 86% reporting: 374411.
+Remaining: 726394.
+New ratio needed: 51.8%. 
+
+============================================================
+
+Iteration 29 reporting at 90%. 
+Biden's ratio: 73.6% of the new vote since the 86% reporting. 
+
+Total: 7268190. Needed: 3634095
+
+Biden is at 89.7% with 3258529 of 3634095. 
+Biden needs 375566. 
+
+Trump is at 90.3% with 3282842 of 3634095. 
+Trump needs 351253. 
+
+Delta - total num of votes since 86% reporting: 378655.
+Remaining: 726818.
+New ratio needed: 51.7%. 
+
+============================================================
+
+Iteration 30 reporting at 94%. 
+Biden's ratio: 73.6% of the new vote since the 86% reporting. 
+
+Total: 6958905. Needed: 3479452
+
+Biden is at 93.7% with 3258529 of 3479452. 
+Biden needs 220923. 
+
+Trump is at 94.3% with 3282842 of 3479452. 
+Trump needs 196610. 
+
+Delta - total num of votes since 86% reporting: 69370.
+Remaining: 417534.
+New ratio needed: 52.9%. 
+
+============================================================
+
+Iteration 31 reporting at 98%. 
+Biden's ratio: 74.2% of the new vote since the 86% reporting. 
+
+Total: 6730842. Needed: 3365421
+
+Biden is at 98.1% with 3302987 of 3365421. 
+Biden needs 62434. 
+
+Trump is at 97.9% with 3293239 of 3365421. 
+Trump needs 72182. 
+
+Delta - total num of votes since 86% reporting: -158692.
+Remaining: 134616.
+New ratio needed: 46.4%. 
+
+============================================================
+
+Iteration 32 reporting at 98%. 
+Biden's ratio: 74.1% of the new vote since the 86% reporting. 
+
+Total: 6742520. Needed: 3371260
+
+Biden is at 98.2% with 3310574 of 3371260. 
+Biden needs 60686. 
+
+Trump is at 97.8% with 3297096 of 3371260. 
+Trump needs 74164. 
+
+Delta - total num of votes since 86% reporting: -147014.
+Remaining: 134850.
+New ratio needed: 45.0%. 
+
+============================================================
+
+Iteration 33 reporting at 98%. 
+Biden's ratio: 74.0% of the new vote since the 86% reporting. 
+
+Total: 6743093. Needed: 3371546
+
+Biden is at 98.2% with 3310778 of 3371546. 
+Biden needs 60768. 
+
+Trump is at 97.8% with 3297454 of 3371546. 
+Trump needs 74092. 
+
+Delta - total num of votes since 86% reporting: -146441.
+Remaining: 134861.
+New ratio needed: 45.1%. 
+
+============================================================
+
+Iteration 34 reporting at 98%. 
+Biden's ratio: 74.0% of the new vote since the 86% reporting. 
+
+Total: 6744575. Needed: 3372287
+
+Biden is at 98.2% with 3311673 of 3372287. 
+Biden needs 60614. 
+
+Trump is at 97.8% with 3298011 of 3372287. 
+Trump needs 74276. 
+
+Delta - total num of votes since 86% reporting: -144959.
+Remaining: 134891.
+New ratio needed: 44.9%. 
+
+============================================================
+
+Iteration 35 reporting at 98%. 
+Biden's ratio: 74.0% of the new vote since the 86% reporting. 
+
+Total: 6744782. Needed: 3372391
+
+Biden is at 98.2% with 3311780 of 3372391. 
+Biden needs 60611. 
+
+Trump is at 97.8% with 3298107 of 3372391. 
+Trump needs 74284. 
+
+Delta - total num of votes since 86% reporting: -144752.
+Remaining: 134895.
+New ratio needed: 44.9%. 
+
+============================================================
+
+Iteration 36 reporting at 98%. 
+Biden's ratio: 74.0% of the new vote since the 86% reporting. 
+
+Total: 6745034. Needed: 3372517
+
+Biden is at 98.2% with 3311927 of 3372517. 
+Biden needs 60590. 
+
+Trump is at 97.8% with 3298207 of 3372517. 
+Trump needs 74310. 
+
+Delta - total num of votes since 86% reporting: -144500.
+Remaining: 134900.
+New ratio needed: 44.9%. 
+
+============================================================
+
+Iteration 37 reporting at 98%. 
+Biden's ratio: 73.9% of the new vote since the 86% reporting. 
+
+Total: 6750582. Needed: 3375291
+
+Biden is at 98.2% with 3315158 of 3375291. 
+Biden needs 60133. 
+
+Trump is at 97.8% with 3300413 of 3375291. 
+Trump needs 74878. 
+
+Delta - total num of votes since 86% reporting: -138952.
+Remaining: 135011.
+New ratio needed: 44.5%. 
+
+============================================================
+
+Iteration 38 reporting at 98%. 
+Biden's ratio: 73.8% of the new vote since the 86% reporting. 
+
+Total: 6751531. Needed: 3375765
+
+Biden is at 98.2% with 3315521 of 3375765. 
+Biden needs 60244. 
+
+Trump is at 97.8% with 3300980 of 3375765. 
+Trump needs 74785. 
+
+Delta - total num of votes since 86% reporting: -138003.
+Remaining: 135030.
+New ratio needed: 44.6%. 
+
+============================================================
+
+Iteration 39 reporting at 98%. 
+Biden's ratio: 73.8% of the new vote since the 86% reporting. 
+
+Total: 6753312. Needed: 3376656
+
+Biden is at 98.2% with 3316645 of 3376656. 
+Biden needs 60011. 
+
+Trump is at 97.8% with 3301601 of 3376656. 
+Trump needs 75055. 
+
+Delta - total num of votes since 86% reporting: -136222.
+Remaining: 135066.
+New ratio needed: 44.4%. 
+
+============================================================
+
+Iteration 40 reporting at 98%. 
+Biden's ratio: 73.8% of the new vote since the 86% reporting. 
+
+Total: 6757328. Needed: 3378664
+
+Biden is at 98.3% with 3319552 of 3378664. 
+Biden needs 59112. 
+
+Trump is at 97.7% with 3302630 of 3378664. 
+Trump needs 76034. 
+
+Delta - total num of votes since 86% reporting: -132206.
+Remaining: 135146.
+New ratio needed: 43.7%. 
+
+============================================================
+
+Iteration 41 reporting at 98%. 
+Biden's ratio: 73.8% of the new vote since the 86% reporting. 
+
+Total: 6763843. Needed: 3381921
+
+Biden is at 98.3% with 3324096 of 3381921. 
+Biden needs 57825. 
+
+Trump is at 97.7% with 3304471 of 3381921. 
+Trump needs 77450. 
+
+Delta - total num of votes since 86% reporting: -125691.
+Remaining: 135276.
+New ratio needed: 42.7%. 
+
+============================================================
+
+Iteration 42 reporting at 98%. 
+Biden's ratio: 73.8% of the new vote since the 86% reporting. 
+
+Total: 6764051. Needed: 3382025
+
+Biden is at 98.3% with 3324151 of 3382025. 
+Biden needs 57874. 
+
+Trump is at 97.7% with 3304619 of 3382025. 
+Trump needs 77406. 
+
+Delta - total num of votes since 86% reporting: -125483.
+Remaining: 135281.
+New ratio needed: 42.8%. 
+
+============================================================
+
+Iteration 43 reporting at 99%. 
+Biden's ratio: 73.9% of the new vote since the 86% reporting. 
+
+Total: 6709183. Needed: 3354591
+
+Biden is at 99.4% with 3334633 of 3354591. 
+Biden needs 19958. 
+
+Trump is at 98.6% with 3307459 of 3354591. 
+Trump needs 47132. 
+
+Delta - total num of votes since 86% reporting: -180351.
+Remaining: 67091.
+New ratio needed: 29.7%. 
+
+============================================================
+
+Iteration 44 reporting at 99%. 
+Biden's ratio: 73.9% of the new vote since the 86% reporting. 
+
+Total: 6712384. Needed: 3356192
+
+Biden is at 99.4% with 3337069 of 3356192. 
+Biden needs 19123. 
+
+Trump is at 98.6% with 3308192 of 3356192. 
+Trump needs 48000. 
+
+Delta - total num of votes since 86% reporting: -177150.
+Remaining: 67123.
+New ratio needed: 28.5%. 
+
+============================================================
+
+Iteration 45 reporting at 99%. 
+Biden's ratio: 73.9% of the new vote since the 86% reporting. 
+
+Total: 6736920. Needed: 3368460
+
+Biden is at 99.6% with 3355387 of 3368460. 
+Biden needs 13073. 
+
+Trump is at 98.4% with 3314164 of 3368460. 
+Trump needs 54296. 
+
+Delta - total num of votes since 86% reporting: -152614.
+Remaining: 67369.
+New ratio needed: 19.4%. 
+
+============================================================
+
+Iteration 46 reporting at 99%. 
+Biden's ratio: 73.5% of the new vote since the 86% reporting. 
+
+Total: 6766300. Needed: 3383150
+
+Biden is at 99.7% with 3373773 of 3383150. 
+Biden needs 9377. 
+
+Trump is at 98.3% with 3324864 of 3383150. 
+Trump needs 58286. 
+
+Delta - total num of votes since 86% reporting: -123234.
+Remaining: 67663.
+New ratio needed: 13.9%. 
+
+============================================================
+
+Iteration 47 reporting at 99%. 
+Biden's ratio: 73.2% of the new vote since the 86% reporting. 
+
+Total: 6772896. Needed: 3386448
+
+Biden is at 99.7% with 3376367 of 3386448. 
+Biden needs 10081. 
+
+Trump is at 98.3% with 3328801 of 3386448. 
+Trump needs 57647. 
+
+Delta - total num of votes since 86% reporting: -116637.
+Remaining: 67728.
+New ratio needed: 14.9%. 
+
+============================================================
+
