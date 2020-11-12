@@ -19,6 +19,4 @@ Full graphs and outputs from 86% onwards:
 [Output](./penn.txt)
 
 Pennsylvania was chosen at the time because there was a substantial percentage of the
-vote left to tally as opposed to Georgia which was already at about 98%, updates were
-occurring frequently unlike Nevada, and Pennsylvania's significant number of electoral
-vote count.
+vote left to tally at 86% as opposed to Georgia which was already at about 98%, updates were occurring frequently unlike Nevada's almost once a day updates, and Pennsylvania's significant number of electoral vote count.
